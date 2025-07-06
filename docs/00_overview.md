@@ -7,3 +7,9 @@ Users can unlock the door by entering a **predefined PIN** through the keypad. I
 This project offers a **low-cost**, scalable alternative to traditional locks, with potential for enhancements like camera surveillance, or integration with IoT platforms for remote monitoring.
 
 Ideal for homes, labs, and secured areas, this system ensures safety and user-friendly access.
+
+---
+
+
+### 📽️ Demo Video  
+[▶️ Click here to watch the demo video](videodemo.mp4)

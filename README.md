@@ -3,6 +3,11 @@ The Smart Door Lock Security System is a microcontroller-based project designed 
 
 ---
 
+### 📽️ Demo Video  
+[▶️ Click here to watch the demo video](videodemo.mp4)
+
+---
+
 ## Table of Contents
 
 - [Overview](docs/00_overview.md)

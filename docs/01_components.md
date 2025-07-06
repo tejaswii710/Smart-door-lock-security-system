@@ -8,5 +8,6 @@
 | 4    | Buzzer                   | Provides audible feedback                |
 | 5    | Jumper Wires             | For circuit connections                  |
 | 6    | Power Supply             | To power Raspberry Pi and components     |
+| 7    | Relay module             | Controls the electric door lock          |   
 
 

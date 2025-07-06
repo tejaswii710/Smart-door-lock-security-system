@@ -29,7 +29,7 @@
    - If the PIN is incorrect:
      - LCD displays "Wrong PIN!"
      - Buzzer beeps 3 times
-     - 
+       
 4. **Command Functions**  
    - Clear the entered PIN using a specific key (`D`)
    - Submit/verify PIN using another key (`C`)
